@@ -1,5 +1,5 @@
 # Basler Camera Codes
-In this branch I will share my codes(with description on itsels) of the Basler Camera using pypylon, The official python the wrapper for the Basler pylon Camera Software Suite.
+In this branch I will share my codes(with description on itself) of the Basler Camera using pypylon, The official python wrapper for the Basler Pylon Camera Software Suite.
 
 ![pylon](https://github.com/user-attachments/assets/73eb1fab-5164-4a3d-8c3a-f5650840ea47)
 
