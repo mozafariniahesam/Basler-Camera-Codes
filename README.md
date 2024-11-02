@@ -8,4 +8,6 @@ Background information about usage of pypylon, programming samples and jupyter n
 I used these codes on my internship _**"Fluorescence Spectroscopy of Thin Layers of Laser Dyes for Biological Applications"**_ which in it I constructed a high-res spectrometer, aligned it and wrote Python codes for high-resolution separation for the acA4024-29um basler camera.
 In it I'm studying the conversion of photon energy using fluorescence spectroscopy with spatial resolution on Rh6g and RhB100 dyes for the purpose of labeling biological structures and fluorescence imaging of them.
 
+![1730544344193](https://github.com/user-attachments/assets/28ad111a-c74c-4a84-a6cf-cc9593bc7c39)
+
  # _These codes will be updated every week._ 
